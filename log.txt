@@ -1,0 +1,17 @@
+commit d1d32525678749deaf1ec84b59d98a215875534f
+Author: IsmaelJdz <ismael_br7@hotmail.com>
+Date:   Mon Dec 17 15:54:17 2018 -0600
+
+    Agregando las imagenes y el añadiendo el contenido en index.html
+
+commit 00e920167fbb024becf6789d07625996afc2e331
+Author: IsmaelJdz <ismael_br7@hotmail.com>
+Date:   Mon Dec 17 15:50:01 2018 -0600
+
+    Modificando el contenido del index.html
+
+commit 0778690f85faa21b14bb522f786259f4b17aab21
+Author: IsmaelJdz <ismael_br7@hotmail.com>
+Date:   Mon Dec 17 15:27:21 2018 -0600
+
+    inicializar nuetro proyecto
